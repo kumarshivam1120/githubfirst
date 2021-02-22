@@ -4,3 +4,6 @@ admin
 user
 password reset for both
 question paper updates
+
+design 
+validation
