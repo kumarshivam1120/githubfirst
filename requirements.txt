@@ -1,0 +1,6 @@
+This is online examination system
+
+admin
+user
+password reset for both
+question paper updates
